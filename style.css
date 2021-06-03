@@ -64,4 +64,4 @@ h5 { font-size: 15px; font-weight: 100; color: rgb(146, 146, 146); }
 .boxlist li { list-style: none; background-color: #F2F2F2;
     margin: 0 10px 10px 0; padding: 10px 25px 10px 25px;
     display: inline-block; font-size: 15px; font-weight: 200;
-    border-radius: 20px; }
+    border-radius: 20px;  }
